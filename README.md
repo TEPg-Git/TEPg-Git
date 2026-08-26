@@ -61,7 +61,7 @@ Bachelor of Technology — Computer Science & Engineering
 
 **St. Xavier's College, Ranchi**  
 Higher Secondary — Science  
-**2021 – 2023** · **82%**
+**2021 – 2023** 
 
 ---
 
