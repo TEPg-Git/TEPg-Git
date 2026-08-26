@@ -93,15 +93,6 @@ Higher Secondary — Science
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TEPg-Git&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEPg-Git&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## ⚡ Fun Fact
 
 > I like building things from scratch — whether it's a **rendering engine in Rust** or a **3D environment in Blender**.
